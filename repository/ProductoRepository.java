@@ -42,4 +42,4 @@ public interface ProductoRepository extends JpaRepository<Producto, Integer>{
    
 }
 
-            
+     

@@ -77,9 +77,6 @@ public class ProductoService {
     public List<Producto> metodoNaList(double precioInf, double precioSup) {
         return productoRepository.metodoNativoList(precioInf, precioSup);
     }
-    
-    
-    
-    
+
           
 }
